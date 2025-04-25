@@ -32,9 +32,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000/>
+  <img src="https://img.icons8.com/?size=48&id=62452&format=png&color=000000""/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/?size=48&id=SzgQDfObXUbA&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
 </p>
